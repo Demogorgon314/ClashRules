@@ -1,0 +1,11 @@
+DOMAIN-SUFFIX,gitpod.io
+DOMAIN-SUFFIX,v2ex.com
+DOMAIN-SUFFIX,huajicloud.ml
+DOMAIN-SUFFIX,github.com
+DOMAIN-SUFFIX,imgur.com
+DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,redditstatic.com
+DOMAIN-SUFFIX,cloudflare.com
+
+# OpenAI payment
+DOMAIN-SUFFIX,stripe.com
