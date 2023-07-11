@@ -7,3 +7,7 @@ DOMAIN-SUFFIX,tkpotc.xyz
 
 # PikPak download
 DOMAIN-KEYWORD,dl-a10b
+
+# Extransfer https://suufun.com/
+DOMAIN-SUFFIX,extransfer.xyz
+DOMAIN-SUFFIX,suufun.info
