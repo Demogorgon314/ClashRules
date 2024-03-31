@@ -9,3 +9,6 @@ DOMAIN-SUFFIX,cloudflare.com
 
 # OpenAI payment
 DOMAIN-SUFFIX,stripe.com
+
+# io.net
+DOMAIN-SUFFIX,io.solutions
